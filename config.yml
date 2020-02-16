@@ -1,0 +1,5 @@
+title: Erica
+email: "eri.means@gmail.com"
+description: boo
+baseurl: "/EriMeans" # the subpath of your site, e.g. /blog
+url: "localhost 4000" # the base hostname & protocol for your site, e.g. http://example.com
